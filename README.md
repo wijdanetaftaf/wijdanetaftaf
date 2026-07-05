@@ -1,151 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Wijdane%20Taftaf&fontSize=42&fontColor=e8e8e8&fontAlignY=65&desc=Data%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20ML&descAlignY=85&descSize=14&descColor=888888" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6552f5,100:e0537a&height=180&section=header&text=Wijdane%20Taftaf&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=AI%20%7C%20Data%20Science%20%7C%20Data%20Engineering&descAlignY=60&descSize=18&descColor=f0f0f0" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Engineering-6552F5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Science-E0537A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Engineering-1EA88A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-1EA88A?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="60%">
+## Overview
 
-Ingénieure diplômée d'**ENSA Khouribga** (2026). Je construis des systèmes data intelligents — architectures RAG, pipelines ETL, modèles ML — pour des problèmes réels dans le bancaire et le télécom.
+Engineering graduate from ENSA Khouribga (2026), specialized in AI, Data Science and Data Engineering. I build end-to-end data products — ingestion pipelines, data warehouses, ML models, and Agentic RAG systems — for real-world use cases across telecom, banking, and industry.
 
-Dernière expérience : AI Engineer chez **Orange Maroc** (stage de fin d'études, terminé).
-
-**Disponible immédiatement.**
+Four completed internships, including a final-year role as AI Engineer at Orange Morocco. Available immediately for full-time opportunities.
 
 <br/>
 
-[wijdanetaftaf@gmail.com](mailto:wijdanetaftaf@gmail.com) · [LinkedIn](https://linkedin.com/in/wijdane-taftaf) · [Portfolio](https://wijdanetaftaf.github.io)
+## Profile
 
-</td>
-<td valign="top" width="40%" align="right">
-
-```python
-class WijdaneTaftaf:
-    focus   = "AI · Data · LLM"
-    school  = "ENSA Khouribga, diplômée 2026"
-    city    = "Maroc"
-    open_to = "disponible immédiatement"
-```
-
-</td>
-</tr>
-</table>
+| Category | Details |
+|---|---|
+| Education | ENSA Khouribga — Computer Science & Data Engineering |
+| Graduation | 2026 |
+| Location | Morocco |
+| Availability | Immediate |
+| Languages | Arabic (native) · French (fluent) · English (professional) |
 
 <br/>
 
----
-
-## Expérience
-
-<table>
-<tr>
-<td width="30%"><b>Orange Maroc</b><br/><sub>AI Engineer · stage PFE, terminé</sub></td>
-<td>Architecture <b>Agentic RAG</b> multi-agents pour l'analyse de données Huawei · recherche sémantique · génération automatique de requêtes SQL<br/><br/><code>LangGraph</code> <code>LLM</code> <code>ChromaDB</code> <code>Flask</code> <code>SQL</code></td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="30%"><b>BCP</b><br/><sub>Data Engineer · 2 mois</sub></td>
-<td>Pipeline ETL intelligent pour nettoyage et validation de données multilingues avec LLM · traçabilité et monitoring via Elasticsearch et Kibana<br/><br/><code>LangChain</code> <code>Ollama</code> <code>Elasticsearch</code> <code>FastAPI</code></td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="30%"><b>OCP</b><br/><sub>Software Engineer · 1 mois</sub></td>
-<td>Application de gestion des réclamations — conception et implémentation complète<br/><br/><code>Java</code> <code>JavaFX</code> <code>MySQL</code></td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## Projets
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Détection de défauts industriels**
-Vision par ordinateur · Classification de pièces industrielles avec EfficientNet · segmentation des défauts visuels avec DeepLabV3
-
-`PyTorch` `EfficientNet` `DeepLabV3` `Flask`
-
-</td>
-<td width="50%" valign="top">
-
-**Prédiction météorologique temps réel**
-Pipeline ETL avec logique floue · modèle de prédiction · dashboards intégrés dans une application web complète
-
-`Kafka` `Spark` `PyTorch` `React` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<br/>
-
-**Analyse des feedbacks étudiants**
-NLP + régression logistique · dashboards interactifs pour l'aide à la décision pédagogique
-
-`Django` `Dash` `Scikit-learn` `NLTK`
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-**Assistant IA conversationnel** *(Orange Maroc)*
-Agentic RAG · compréhension de données Huawei · génération de requêtes SQL en langage naturel
-
-`LangGraph` `ChromaDB` `LLM`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## Stack
+## Core Competencies
 
 <div align="center">
 
-| | |
-|:---|:---|
-| **Data & Big Data** | Python · SQL · Spark · Kafka · Hadoop · ETL · Elasticsearch |
-| **IA & LLM** | LangChain · LangGraph · Ollama · RAG · Scikit-learn · PyTorch · NLP |
-| **Vision** | OpenCV · YOLOv11 · EfficientNet · DeepLabV3 · DeepFace |
-| **Bases de données** | PostgreSQL · MySQL · Redis · ChromaDB · Kibana |
-| **Cloud & DevOps** | Azure · Docker · CI/CD · Git |
-| **Dev** | FastAPI · Django · Flask · React · Java |
+`Python` `SQL` `Spark` `Kafka` `Hadoop` `Airflow` `ETL`
+`PyTorch` `scikit-learn` `LangGraph` `RAG` `NLP` `LLM`
+`OpenCV` `YOLOv11` `DeepFace`
+`PostgreSQL` `MySQL` `MongoDB` `Elasticsearch` `ChromaDB` `Redis`
+`Docker` `Kubernetes` `AWS` `Azure`
+`Django` `FastAPI` `Flask` `React`
 
 </div>
 
 <br/>
 
----
+## Professional Experience
 
-## Formation & Certifications
+**AI Engineer — Orange Morocco** · *Final-year internship, completed*
+Designed an Agentic RAG chatbot assistant for Huawei data analysis, combining semantic search and automatic SQL generation.
+`LangGraph` `ChromaDB` `BGE-M3` `PostgreSQL` `Flask`
 
-**ENSA Khouribga** — Cycle ingénieur, Informatique & Ingénierie des Données `2023 – 2026` · Diplômée
+**Data Engineer — Banque Centrale Populaire** · *2 months*
+Built an intelligent ETL pipeline for automated cleaning and validation of multilingual data, with Elasticsearch/Kibana monitoring.
+`Python` `Elasticsearch` `Kibana` `LangChain` `FastAPI`
 
-**ENSA Khouribga** — Cycle préparatoire intégré `2021 – 2023`
+**Data Scientist — HJB Technologies** · *2 months*
+Developed a facial recognition model and an integrated digital payment system for a transport application.
+`OpenCV` `DeepFace` `YOLOv11` `MongoDB`
+
+**Software Engineering — OCP** · *1 month*
+Built a complaint management application, from requirements analysis to interface design.
+`Java` `JavaFX` `MySQL`
 
 <br/>
 
-**Datacamp** — Data Engineer Associate · Data Manipulation with Pandas &nbsp;&nbsp; **Udemy** — LLM · LangChain · RAG · Agents
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Intelligent Assistant — AFCON (CAN) 2025** | Chatbot combining web scraping, data ingestion and a Llama-based router | `Python` `Llama` `Flask` |
+| **Industrial Defect Detection** | Vision system detecting and segmenting industrial defects | `PyTorch` `EfficientNet` `DeepLabV3` |
+| **Extreme Weather Prediction** | PySpark ETL feeding deep learning and fuzzy logic models | `PySpark` `LSTM` `React` |
+| **Drug Impact & Side-Effect Analysis** | ETL pipeline and Data Warehouse with Power BI dashboards | `ETL` `Data Warehouse` `Power BI` |
+
+Full list on my [portfolio](https://wijdanetaftaf.github.io/wijdane-portfolio).
 
 <br/>
 
----
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wijdanetaftaf&show_icons=true&theme=default&hide_border=true&title_color=6552f5&icon_color=e0537a" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wijdanetaftaf&layout=compact&hide_border=true&title_color=6552f5" height="165"/>
+</div>
+
+<br/>
+
+## Career Focus (2026)
+
+- AI / Data Science roles applying LLMs, RAG, and ML to production data problems
+- Data Engineering roles building reliable, scalable pipelines
+- Open to remote and on-site opportunities
+
+<br/>
+
+## Contact
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+[![Email](https://img.shields.io/badge/Email-wijdanetaftaf%40gmail.com-6552F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wijdanetaftaf@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wijdane-taftaf-b7a331279/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1EA88A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wijdanetaftaf.github.io/wijdane-portfolio)
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0537a,100:6552f5&height=100&section=footer" width="100%"/>
 </div>
