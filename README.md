@@ -10,9 +10,11 @@
 <tr>
 <td valign="top" width="60%">
 
-Ingénieure en fin de cycle à **ENSA Khouribga**. Je construis des systèmes data intelligents — architectures RAG, pipelines ETL, modèles ML — pour des problèmes réels dans le bancaire et le télécom.
+Ingénieure diplômée d'**ENSA Khouribga** (2026). Je construis des systèmes data intelligents — architectures RAG, pipelines ETL, modèles ML — pour des problèmes réels dans le bancaire et le télécom.
 
-Actuellement AI Engineer chez **Orange Maroc**.
+Dernière expérience : AI Engineer chez **Orange Maroc** (stage de fin d'études, terminé).
+
+**Disponible immédiatement.**
 
 <br/>
 
@@ -24,9 +26,9 @@ Actuellement AI Engineer chez **Orange Maroc**.
 ```python
 class WijdaneTaftaf:
     focus   = "AI · Data · LLM"
-    school  = "ENSA Khouribga"
-    city    = "Khouribga, Maroc"
-    open_to = "opportunités 2026"
+    school  = "ENSA Khouribga, diplômée 2026"
+    city    = "Maroc"
+    open_to = "disponible immédiatement"
 ```
 
 </td>
@@ -41,7 +43,7 @@ class WijdaneTaftaf:
 
 <table>
 <tr>
-<td width="30%"><b>Orange Maroc</b><br/><sub>AI Engineer · en cours</sub></td>
+<td width="30%"><b>Orange Maroc</b><br/><sub>AI Engineer · stage PFE, terminé</sub></td>
 <td>Architecture <b>Agentic RAG</b> multi-agents pour l'analyse de données Huawei · recherche sémantique · génération automatique de requêtes SQL<br/><br/><code>LangGraph</code> <code>LLM</code> <code>ChromaDB</code> <code>Flask</code> <code>SQL</code></td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
@@ -130,7 +132,7 @@ Agentic RAG · compréhension de données Huawei · génération de requêtes SQ
 
 ## Formation & Certifications
 
-**ENSA Khouribga** — Cycle ingénieur, Informatique & Ingénierie des Données `2023 – 2026`
+**ENSA Khouribga** — Cycle ingénieur, Informatique & Ingénierie des Données `2023 – 2026` · Diplômée
 
 **ENSA Khouribga** — Cycle préparatoire intégré `2021 – 2023`
 
