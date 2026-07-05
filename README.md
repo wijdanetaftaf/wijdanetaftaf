@@ -81,14 +81,6 @@ Full list on my [portfolio](https://wijdanetaftaf.github.io/wijdane-portfolio).
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wijdanetaftaf&show_icons=true&theme=default&hide_border=true&title_color=B5533C&icon_color=C9932E" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wijdanetaftaf&layout=compact&hide_border=true&title_color=B5533C" height="165"/>
-</div>
-
-<br/>
 
 ## Career Focus (2026)
 
