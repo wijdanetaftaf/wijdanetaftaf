@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6552f5,100:e0537a&height=180&section=header&text=Wijdane%20Taftaf&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=AI%20%7C%20Data%20Science%20%7C%20Data%20Engineering&descAlignY=60&descSize=18&descColor=f0f0f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5533C,100:C9932E&height=180&section=header&text=Wijdane%20Taftaf&fontSize=44&fontColor=fff8ef&fontAlignY=40&desc=AI%20%7C%20Data%20Science%20%7C%20Data%20Engineering&descAlignY=60&descSize=18&descColor=f5e6d3" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20Engineering-6552F5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Science-E0537A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Engineering-1EA88A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to%20Work-1EA88A?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Engineering-B5533C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Science-A9784F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Engineering-C9932E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-6B8E5A?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 </div>
 
@@ -84,8 +84,8 @@ Full list on my [portfolio](https://wijdanetaftaf.github.io/wijdane-portfolio).
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wijdanetaftaf&show_icons=true&theme=default&hide_border=true&title_color=6552f5&icon_color=e0537a" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wijdanetaftaf&layout=compact&hide_border=true&title_color=6552f5" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wijdanetaftaf&show_icons=true&theme=default&hide_border=true&title_color=B5533C&icon_color=C9932E" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wijdanetaftaf&layout=compact&hide_border=true&title_color=B5533C" height="165"/>
 </div>
 
 <br/>
@@ -102,14 +102,14 @@ Full list on my [portfolio](https://wijdanetaftaf.github.io/wijdane-portfolio).
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-wijdanetaftaf%40gmail.com-6552F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wijdanetaftaf@gmail.com)
+[![Email](https://img.shields.io/badge/Email-wijdanetaftaf%40gmail.com-B5533C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wijdanetaftaf@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wijdane-taftaf-b7a331279/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1EA88A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wijdanetaftaf.github.io/wijdane-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9932E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wijdanetaftaf.github.io/wijdane-portfolio)
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0537a,100:6552f5&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9932E,100:B5533C&height=100&section=footer" width="100%"/>
 </div>
