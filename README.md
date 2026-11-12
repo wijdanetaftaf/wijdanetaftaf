@@ -64,7 +64,7 @@ Developed a facial recognition model and an integrated digital payment system fo
 
 **Software Engineering — OCP** · *1 month*
 Built a complaint management application, from requirements analysis to interface design.
-`Java` `JavaFX` `MySQL`
+`python` `flask` `MySQL` `powerbi`
 
 <br/>
 
